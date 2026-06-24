@@ -1,0 +1,6 @@
+name: D-SINOS
+channels:
+  - defaults
+dependencies:
+  - pip
+prefix: /Users/philhofmann/miniconda3/envs/D-SINOS
