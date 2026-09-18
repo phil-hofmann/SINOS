@@ -15,13 +15,15 @@ If you use this code or build on the methods in this repository, please cite the
 The current arXiv preprint corresponds to the original manuscript, which has since been substantially revised. The updated preprint and final published version will be linked here once available.
 
 ```bibtex
-@misc{hofmann2026sinos,
-  title         = {<Paper title>},
+@misc{Hofmann2026arXiv,
+  title         = {Mitigating Numerical Stiffness in Least-Squares Formulations of Elliptic PDEs for Physics-Informed Neural Networks},
   author        = {Hofmann, Phil-Alexander and Hecht, Michael},
   year          = {2026},
-  eprint        = {<arXiv-ID>},
+  eprint        = {2607.02726},
   archivePrefix = {arXiv},
-  primaryClass  = {math.NA}
+  primaryClass  = {math.NA},
+  doi           = {10.48550/arXiv.2607.02726},
+  url           = {https://arxiv.org/abs/2607.02726}
 }
 ```
 
